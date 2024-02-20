@@ -1,20 +1,143 @@
 [
   {
-    "name": "XOXO",
-    "author": "Travis Hall",
-    "collections": "Faded Icons",
-    "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/xoxo.png"
-  },
-  {
-    "name": "Barred Out",
-    "author": "Travis Hall",
-    "collections": "Faded Icons",
-    "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/barred_out.png"
-  },
-  {
-    "name": "Blast Off",
-    "author": "Travis Hall",
-    "collections": "Faded Icons",
-    "url": "https://raw.githubusercontent.com/RippedThemer/Faded/master/Wallpapers/blast_off.png"
-  }
+
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/AsAboveSoBelow.png",
+"name": "AsAboveSoBelow"
+},
+{
+              "author": "Travis Hall",
+              "url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/Barked.png",
+              "name": "Barked"
+          },
+          {
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/BarkedMuted.png",
+"name": "BarkedMuted"
+},
+{
+"author": "Travis Hall",
+              "url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/BrushItOff.png",
+              "name": "BrushItOff"
+          },
+          {
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/BrushItOffRemix.png",
+"name": "BrushItOffRemix"
+},
+{
+              "author": "Travis Hall",
+              "url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutBlue.png",
+              "name": "LaidOutBlue"
+          },
+          {
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutDark.png",
+"name": "LaidOutDark"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutGreen.png",
+"name": "LaidOutGreen"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutLight.png",
+"name": "LaidOutLight"
+},	
+{
+              "author": "Travis Hall",
+              "url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutOrange.png",
+              "name": "LaidOutOrange"
+          },
+          {
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutPurple.png",
+"name": "LaidOutPurple"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutRed.png",
+"name": "LaidOutRed"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LaidOutYellow.png",
+"name": "LaidOutYellow"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LookingDark.png",
+"name": "LookingDark"
+},
+{
+              "author": "Travis Hall",
+              "url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/LookingDown.png",
+              "name": "LookingDown"
+          },
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/MacroLeaf.png",
+"name": "MacroLeaf"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/Modern.png",
+"name": "Modern"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/MutedView.png",
+"name": "MutedView"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/Nature.png",
+"name": "Nature"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/StrokesBlue.png",
+"name": "StrokesBlue"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/StrokesDarkBlue.png",
+"name": "StrokesDarkBlue"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/StrokesGreen.png",
+"name": "StrokesGreen"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/StrokesOrange.png",
+"name": "StrokesOrange"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/StrokesPurple.png",
+"name": "StrokesPurple"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/StrokesRed.png",
+"name": "StrokesRed"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/StrokesYellow.png",
+"name": "StrokesYellow"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/TiltedView.png",
+"name": "TiltedView"
+},
+{
+"author": "Travis Hall",
+"url": "https://raw.githubusercontent.com/RippedThemer/Symplo-Walls/main/Wallpapers/Weathered.png",
+"name": "Weathered"
+}
 ]
